@@ -7,3 +7,4 @@ temp_interactive_push.bat
 config.bat
 .env
 .env.*
+branch_structure.json
